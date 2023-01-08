@@ -1,2 +1,2 @@
-# Fresh-Core-suggestions
-Suggestions for the Fresh's library: Fresh.Core
+# Draco-Core-suggestions
+Suggestions for the Draco library: Draco.Core
